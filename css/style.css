@@ -1,0 +1,15 @@
+body {
+    background-color : powderblue;
+}
+#img1{
+    float : left;
+    border-style: solid;
+}
+#img2 {
+    float : right;
+    border-style: solid;
+}
+#img3 {
+    float : left;
+    border-style: solid;
+}
